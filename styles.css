@@ -1,0 +1,11 @@
+::-webkit-scrollbar{
+    display: none;
+}
+
+.carousel-item{
+    height: 500px;
+}
+
+.info-img{
+    height: 300px;
+}
